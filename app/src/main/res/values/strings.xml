@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SliitMadTute03</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btnFragment1">FRAGMENT 1</string>
+    <string name="btnFragment2">FRAGMENT 2</string>
+</resources>
